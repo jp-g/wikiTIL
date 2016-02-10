@@ -2,7 +2,7 @@
 
 A collection of daily things I have learned
 
-_22 TIL_
+_2 TIL_
 
 ---
 
@@ -10,6 +10,7 @@ Categories
 
 * [Vim](#vim)
 * [Perl](#perl)
+
 ---
 
 ### Vim
