@@ -2,7 +2,7 @@
 
 A collection of things I have learned
 
-0 TIL
+1 TIL
 +=+=+=+=+=+=+=+=
 
 Categories
