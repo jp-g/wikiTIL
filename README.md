@@ -1,6 +1,6 @@
 # wikiTIL
 
-A collection of things I have learned
+A collection of daily things I have learned
 
 _1 TIL_
 
