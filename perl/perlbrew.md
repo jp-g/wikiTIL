@@ -7,16 +7,22 @@ nowadays use perlbrew:
 perlbrew available
  
 # Install some Perls
+```
 perlbrew install 5.18.2
 perlbrew install perl-5.8.1
 perlbrew install perl-5.19.9
- 
+``` 
 # See what were installed
+```
 perlbrew list
- 
+```
 # Swith to an installation and set it as default
+```
 perlbrew switch perl-5.18.2
+```
  
 # Temporarily use another version only in current shell.
+```
 perlbrew use perl-5.8.1
 perl -v
+```
