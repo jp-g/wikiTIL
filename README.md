@@ -2,7 +2,7 @@
 
 A collection of daily things I have learned
 
-_4 TIL_
+_5 TIL_
 
 ---
 
@@ -26,6 +26,7 @@ Categories
 ### Python
 
 - [Python Loop and Half](python/loopandhalf.md)
+- [Reducing list](python/reducinglist.md)
 
 ## About
 
