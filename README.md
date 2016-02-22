@@ -2,7 +2,7 @@
 
 A collection of daily things I have learned
 
-_5 TIL_
+_6 TIL_
 
 ---
 
@@ -27,6 +27,7 @@ Categories
 
 - [Python Loop and Half](python/loopandhalf.md)
 - [Reducing list](python/reducinglist.md)
+- [Native data serialization](python/pickle.md)
 
 ## About
 
