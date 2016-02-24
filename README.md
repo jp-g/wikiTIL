@@ -2,7 +2,7 @@
 
 A collection of daily things I have learned
 
-_6 TIL_
+_7 TIL_
 
 ---
 
@@ -22,6 +22,7 @@ Categories
 
 - [Perl5 manage multiple version of Perl](perl/perlbrew.md)
 - [Perl5 Cheat sheet](perl/perlcheatsheet.md)
+- [Python's decorator in Perl](perl/decoratorperl.md)
 
 ### Python
 
