@@ -2,7 +2,7 @@
 
 A collection of daily things I have learned
 
-_7 TILs_
+_8 TIL_
 
 ---
 
@@ -17,6 +17,8 @@ Categories
 ### Vim
 
 - [To turn off highligting until the nextsearch](vim/highlighting.md)
+- [Setting a line Upper or Lower](vim/lineupperorlower.md)
+
 
 ### Perl
 
