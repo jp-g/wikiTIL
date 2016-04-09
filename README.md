@@ -2,8 +2,7 @@
 
 A collection of daily things I have learned
 
-
-_7 TIL_
+_7 TILs_
 
 ---
 
